@@ -5,7 +5,7 @@ import { Routes,Route } from "react-router-dom"
 import Create_recipes from "./pages/Create_recipes"
 import SingleResipes from "./pages/SingleResipes"
 import PageNoteFouned from "./pages/PageNoteFouned"
-import Fav from "./pages/fav"
+import Fav from "./pages/Fav"
 
 
 const Mainroutes = () => {
