@@ -1,5 +1,5 @@
 import Home from "./pages/Home"
-import Recipes from "./pages/recipes"
+import Recipes from "./pages/Recipes"
 import About from "./pages/About"
 import { Routes,Route } from "react-router-dom"
 import Create_recipes from "./pages/Create_recipes"
